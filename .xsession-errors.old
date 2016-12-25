@@ -1,0 +1,72 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/joe2017/.Xauthority
+openConnection: connect: No such file or directory
+cannot connect to braille devices daemon brltty at :0
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=xim
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/joe2017
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting USER=joe2017
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/usr/share/upstart/systemd-session:/usr/share/upstart/xdg:/etc/xdg
+dbus-update-activation-environment: setting PATH=/home/joe2017/bin:/home/joe2017/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DESKTOP_SESSION=ubuntu
+dbus-update-activation-environment: setting QT_IM_MODULE=ibus
+dbus-update-activation-environment: setting PWD=/home/joe2017
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting NODE_PATH=/usr/lib/nodejs:/usr/lib/node_modules:/usr/share/javascript
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=ubuntu
+dbus-update-activation-environment: setting GDMSESSION=ubuntu
+dbus-update-activation-environment: setting GTK2_MODULES=overlay-scrollbar
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting HOME=/home/joe2017
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=ubuntu
+dbus-update-activation-environment: setting LOGNAME=joe2017
+dbus-update-activation-environment: setting QT4_IM_MODULE=xim
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=Unity
+dbus-update-activation-environment: setting XAUTHORITY=/home/joe2017/.Xauthority
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+upstart: click-user-hooks main process (2109) terminated with status 1
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+upstart: unity-settings-daemon main process ended, respawning
+xbrlapi: window 0x02c00084 changed to NULL name
+xbrlapi: window 0x02c00084 changed to NULL name
+upstart: dbus main process (2105) killed by TERM signal
+upstart: url-dispatcher main process (2110) killed by TERM signal
+upstart: hud main process (2298) killed by HUP signal
+upstart: gnome-session (Unity) main process (2318) killed by TERM signal
+upstart: indicator-bluetooth main process (2474) killed by TERM signal
+upstart: indicator-power main process (2480) killed by TERM signal
+upstart: indicator-datetime main process (2481) killed by TERM signal
+upstart: indicator-keyboard main process (2482) killed by HUP signal
+upstart: indicator-sound main process (2485) killed by HUP signal
+upstart: indicator-printers main process (2486) killed by TERM signal
+upstart: indicator-session main process (2487) killed by TERM signal
+upstart: indicator-application main process (2528) killed by TERM signal
+upstart: indicator-application pre-stop process (4768) killed by TERM signal
+upstart: gnome-session (Unity) pre-stop process (4769) killed by HUP signal
+upstart: Disconnected from notified D-Bus bus

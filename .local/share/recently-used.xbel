@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/joe2017/myapp/config/database.yml" added="2016-12-19T03:09:23Z" modified="2016-12-19T03:20:33Z" visited="2016-12-19T03:09:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-12-19T03:09:23Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-19T03:20:33Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joe2017/MyKeyFile.pub" added="2016-12-19T03:17:47Z" modified="2016-12-19T03:17:55Z" visited="2016-12-19T03:17:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-publisher"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --draw %U&apos;" modified="2016-12-19T03:17:47Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.2" exec="&apos;soffice %u&apos;" modified="2016-12-19T03:17:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joe2017/MyKeyFile" added="2016-12-19T03:25:45Z" modified="2016-12-19T03:25:45Z" visited="2016-12-19T03:25:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-pem-key"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/gcr-viewer&apos;" modified="2016-12-19T03:25:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joe2017/demo/config/database.yml" added="2016-12-24T22:40:35Z" modified="2016-12-24T22:40:36Z" visited="2016-12-24T22:40:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-12-24T22:40:35Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-24T22:40:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
