@@ -52,7 +52,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/joe2017/index.html" added="2016-12-25T14:16:13Z" modified="2016-12-26T02:47:27Z" visited="2016-12-25T14:16:14Z">
+  <bookmark href="file:///home/joe2017/index.html" added="2016-12-25T14:16:13Z" modified="2016-12-26T03:04:23Z" visited="2016-12-25T14:16:14Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -60,7 +60,7 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2016-12-26T02:47:27Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2016-12-26T03:04:23Z" count="4"/>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-26T02:32:57Z" count="3"/>
         </bookmark:applications>
       </metadata>
