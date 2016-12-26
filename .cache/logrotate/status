@@ -1,14 +1,14 @@
 logrotate state -- version 2
-"/home/joe2017/.cache/upstart/indicator-network.log" 2016-12-25-8:8:16
+"/home/joe2017/.cache/upstart/indicator-network.log" 2016-12-25-14:28:39
 "/home/joe2017/.cache/upstart/indicator-application.log" 2016-12-24-17:16:37
-"/home/joe2017/.cache/upstart/indicator-sound.log" 2016-12-25-8:8:16
-"/home/joe2017/.cache/upstart/indicator-network-secret-agent.log" 2016-12-25-8:8:16
-"/home/joe2017/.cache/upstart/systemd-graphical-session.log" 2016-12-25-8:8:16
-"/home/joe2017/.cache/upstart/click-user-hooks.log" 2016-12-25-8:8:16
-"/home/joe2017/.cache/upstart/indicator-datetime.log" 2016-12-25-8:8:16
-"/home/joe2017/.cache/upstart/window-stack-bridge.log" 2016-12-25-8:8:16
-"/home/joe2017/.cache/upstart/hud.log" 2016-12-25-8:8:16
-"/home/joe2017/.cache/upstart/at-spi2-registryd.log" 2016-12-25-8:8:16
-"/home/joe2017/.cache/upstart/upstart-event-bridge.log" 2016-12-25-8:8:16
-"/home/joe2017/.cache/upstart/indicator-transfer.log" 2016-12-25-8:8:16
+"/home/joe2017/.cache/upstart/indicator-sound.log" 2016-12-25-14:28:39
+"/home/joe2017/.cache/upstart/indicator-network-secret-agent.log" 2016-12-25-14:28:39
+"/home/joe2017/.cache/upstart/systemd-graphical-session.log" 2016-12-25-14:28:39
+"/home/joe2017/.cache/upstart/indicator-datetime.log" 2016-12-25-14:28:39
+"/home/joe2017/.cache/upstart/click-user-hooks.log" 2016-12-25-14:28:39
+"/home/joe2017/.cache/upstart/window-stack-bridge.log" 2016-12-25-14:28:39
+"/home/joe2017/.cache/upstart/hud.log" 2016-12-25-14:28:39
+"/home/joe2017/.cache/upstart/at-spi2-registryd.log" 2016-12-25-14:28:39
+"/home/joe2017/.cache/upstart/upstart-event-bridge.log" 2016-12-25-14:28:39
+"/home/joe2017/.cache/upstart/indicator-transfer.log" 2016-12-25-14:28:39
 "/home/joe2017/.cache/upstart/*.log" 2016-12-25-8:0:0

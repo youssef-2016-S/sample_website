@@ -45,28 +45,26 @@ dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
 dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=Unity
 dbus-update-activation-environment: setting XAUTHORITY=/home/joe2017/.Xauthority
 dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
-upstart: click-user-hooks main process (2109) terminated with status 1
+upstart: click-user-hooks main process (2130) terminated with status 1
 upstart: unity-settings-daemon main process ended, respawning
 upstart: unity-settings-daemon main process ended, respawning
 upstart: unity-settings-daemon main process ended, respawning
 upstart: unity-settings-daemon main process ended, respawning
 upstart: unity-settings-daemon main process ended, respawning
-upstart: unity-settings-daemon main process ended, respawning
-upstart: unity-settings-daemon main process ended, respawning
-xbrlapi: window 0x02c00084 changed to NULL name
-xbrlapi: window 0x02c00084 changed to NULL name
-upstart: dbus main process (2105) killed by TERM signal
-upstart: url-dispatcher main process (2110) killed by TERM signal
-upstart: hud main process (2298) killed by HUP signal
-upstart: gnome-session (Unity) main process (2318) killed by TERM signal
-upstart: indicator-bluetooth main process (2474) killed by TERM signal
-upstart: indicator-power main process (2480) killed by TERM signal
-upstart: indicator-datetime main process (2481) killed by TERM signal
-upstart: indicator-keyboard main process (2482) killed by HUP signal
-upstart: indicator-sound main process (2485) killed by HUP signal
-upstart: indicator-printers main process (2486) killed by TERM signal
-upstart: indicator-session main process (2487) killed by TERM signal
-upstart: indicator-application main process (2528) killed by TERM signal
-upstart: indicator-application pre-stop process (4768) killed by TERM signal
-upstart: gnome-session (Unity) pre-stop process (4769) killed by HUP signal
+xbrlapi: window 0x03000084 changed to NULL name
+xbrlapi: window 0x03000084 changed to NULL name
+xbrlapi: window 0x03000084 changed to NULL name
+xbrlapi: window 0x03000084 changed to NULL name
+upstart: dbus main process (2125) killed by TERM signal
+upstart: url-dispatcher main process (2131) killed by TERM signal
+upstart: hud main process (2379) killed by HUP signal
+upstart: at-spi2-registryd main process (2408) killed by HUP signal
+upstart: gnome-session (Unity) main process (2412) killed by TERM signal
+upstart: indicator-bluetooth main process (2466) killed by TERM signal
+upstart: indicator-power main process (2467) killed by TERM signal
+upstart: indicator-datetime main process (2468) killed by TERM signal
+upstart: indicator-sound main process (2479) killed by HUP signal
+upstart: indicator-printers main process (2489) killed by TERM signal
+upstart: indicator-session main process (2490) killed by TERM signal
+upstart: indicator-application main process (2516) killed by TERM signal
 upstart: Disconnected from notified D-Bus bus

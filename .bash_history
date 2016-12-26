@@ -58,3 +58,58 @@ exit
 Rails -v
 rails -v
 MySQL -V
+gem install sinatra
+gem list sinatra
+exit
+man -p
+man --p
+man --help
+mkdir -p repos/sample_website
+touch index.html
+git init
+git add -A
+git commit -m "Initialize repository"
+git remote add origin https://github.com/youssef-2016-S/sample_website.git
+git checkout -b gh-pages
+git push -u origin gh-pages
+atom .
+exit
+echo "This is a test" > Test.txt
+echo "Hello World" >> Test.txt
+vim Test.txt
+vim
+Vim
+vim
+sudo apt install vim
+vim Test.txt
+vim
+vim Test.txt
+ls -hartl
+lr
+cd
+vim .bash_profile
+lr
+source .bash_profile
+cd
+source .bash_profile
+vim .bash_profile
+source .bash_profile
+cd
+source .bash_profile
+vim .bash_profile
+source .bash_profile
+lr
+vim .bash_profile
+source .bash_profile
+get cdn.learnenough.com/sonnets.txt
+vim .bash_profile
+vim foo.txt
+wc sonnets.txt
+vim sonnets.txt
+Atom
+sudo apt install Atom
+sudo add-apt-repository ppa:webupd8team/atom
+sudo apt update; sudo apt install atom
+Atom Test.txt
+EXIT
+exit

@@ -28,12 +28,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/joe2017/MyKeyFile" added="2016-12-19T03:25:45Z" modified="2016-12-19T03:25:45Z" visited="2016-12-19T03:25:45Z">
+  <bookmark href="file:///home/joe2017/MyKeyFile" added="2016-12-19T03:25:45Z" modified="2016-12-25T14:21:29Z" visited="2016-12-19T03:25:45Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-pem-key"/>
         <bookmark:applications>
-          <bookmark:application name="nautilus" exec="&apos;/usr/bin/gcr-viewer&apos;" modified="2016-12-19T03:25:45Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/gcr-viewer&apos;" modified="2016-12-25T14:21:29Z" count="10"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -48,6 +48,56 @@
         <bookmark:applications>
           <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2016-12-24T22:40:35Z" count="1"/>
           <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-24T22:40:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joe2017/index.html" added="2016-12-25T14:16:13Z" modified="2016-12-26T02:33:27Z" visited="2016-12-25T14:16:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2016-12-26T02:33:27Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-26T02:32:57Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/example-content/Ubuntu_Free_Culture_Showcase/Jenyfa%20Duncan%20-%20Australia.ogg" added="2016-12-25T19:28:15Z" modified="2016-12-25T19:28:15Z" visited="2016-12-25T19:28:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-vorbis+ogg"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;rhythmbox %U&apos;" modified="2016-12-25T19:28:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joe2017/Desktop/Test" added="2016-12-25T19:56:21Z" modified="2016-12-25T20:21:07Z" visited="2016-12-25T19:56:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-25T20:21:07Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joe2017/sonnets.txt" added="2016-12-25T20:21:16Z" modified="2016-12-25T20:21:16Z" visited="2016-12-25T20:21:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-12-25T20:21:16Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
